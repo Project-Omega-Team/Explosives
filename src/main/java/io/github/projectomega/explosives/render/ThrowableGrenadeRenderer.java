@@ -38,7 +38,7 @@ public class ThrowableGrenadeRenderer extends EntityRenderer<ThrowableGrenadeEnt
     /* Offsets to the center of the grenade before applying rotation */
     float rotation =
         entity.previousRotation + (entity.rotation - entity.previousRotation) * partialTicks;
-    poseStack.translate(0, 0.15, 0);
+    poseStack.translate(0, 0.15, -0.6);
     poseStack.mulPose(Axis.XP.rotationDegrees(-rotation));
     poseStack.translate(0, -0.15, 0);
 
