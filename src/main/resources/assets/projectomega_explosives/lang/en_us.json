@@ -1,3 +1,15 @@
 {
-  "item.projectomega_explosives.mk2_grenade": "MK2 Grenade"
+  "item.projectomega_explosives.mk2_grenade": "MK2 Grenade",
+  "item.projectomega_explosives.m67_grenade": "M67 Grenade",
+  "item.projectomega_explosives.impact_grenade": "Impact Grenade",
+  "item.projectomega_explosives.incendiary_grenade": "Incendiary Grenade",
+  "item.projectomega_explosives.thermobaric_grenade": "Thermobaric Grenade",
+  "item.projectomega_explosives.smoke_grenade": "Smoke Grenade",
+  "item.projectomega_explosives.semtex": "Semtex",
+  "item.projectomega_explosives.molotov": "Molotov",
+  "item.projectomega_explosives.gas_grenade": "Gas Grenade",
+  "item.projectomega_explosives.flash_grenade": "Flash Grenade",
+  "item.projectomega_explosives.emp_grenade": "EMP Grenade",
+  "item.projectomega_explosives.decoy_grenade": "Decoy Grenade",
+  "item.projectomega_explosives.cluster_grenade": "Cluster Grenade"
 }
